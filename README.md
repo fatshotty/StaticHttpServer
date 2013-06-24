@@ -1,0 +1,1 @@
+`coffee server.coffee ~/sites/my_site`
